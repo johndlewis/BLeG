@@ -1,5 +1,0 @@
-This is an fMRI-based sub+cortical surface parcellation.
-The paper that describes it is Lewis et al., 2021, Human Brain Mapping.
-These are the files needed to use the Bezgin-Lewis-extended-Gordon (BLeG) parcellation.
-There are obj files for the cortex and each of the deep structures.  These are the surfaces.
-And there are txt files for each of those structures.  These provide a parcellation label for each vertex. 
